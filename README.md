@@ -12,6 +12,6 @@ By Omar Giron
 
 
 
-Mejor modelo Adaboost
+Mejor modelo: Adaboost
 ![image](https://user-images.githubusercontent.com/52966988/139493879-0b9fee09-2472-42ee-b1be-daeb88c6f4ca.png)
 
