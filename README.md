@@ -1,4 +1,4 @@
-# Facturedo
+# Facturedo (descargar el notebook para una mejor visualizaión)
 By Omar Giron
 <h1><center>MODELO DE MOROSIDAD</center></h1>
 
