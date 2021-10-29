@@ -1,6 +1,6 @@
 # Facturedo
 By Omar Giron
-<h1><center>MODELO DE MOROSIDAD - FACTUREDO</center></h1>
+<h1><center>MODELO DE MOROSIDAD</center></h1>
 
 **Objetivo de Negocio:** 
 "*Reducir la morosidad de pagos*"
